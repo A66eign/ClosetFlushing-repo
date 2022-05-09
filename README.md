@@ -1,3 +1,3 @@
-# A Neural Network Model 
+# Corona Project
 
-hey
+ A Neural Network model to count small objects floating in water.
